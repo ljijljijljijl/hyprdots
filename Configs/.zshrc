@@ -87,3 +87,7 @@ alias mkdir='mkdir -p'
 
 #Display Pokemon
 #pokemon-colorscripts --no-title -r 1,3,6
+
+#Set editor
+export EDITOR=micro
+export VISUAL=micro
